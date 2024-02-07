@@ -38,6 +38,13 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
+# Ignore all font files in the 'fonts' folder
+/webfonts/*.ttf
+/webfonts/*.otf
+/webfonts/*.woff
+/webfonts/*.woff2
+/webfonts/*.eot
+
 # Dependency directories
 node_modules/
 jspm_packages/
@@ -55,6 +62,37 @@ web_modules/
 *.png
 *.jpg
 *jpeg
+*.gif
+*.ico
+*.svg
+*.webp
+*.bmp
+*.tiff
+*.tif
+*.psd
+*.raw
+*.arw
+*.cr2
+*.nrw
+*.k25
+*.kdc
+*.dng
+*.sr2
+*.raf
+*.orf
+*.rw2
+*avif
+
+# videos
+*.webm
+*.mpg
+*.mp2
+*.mpeg
+*.mpe
+*.mpv
+*.ogg
+*.mp4
+*.m4p
 
 # Optional eslint cache
 .eslintcache
