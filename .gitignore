@@ -84,15 +84,15 @@ web_modules/
 *avif
 
 # videos
-*.webm
-*.mpg
-*.mp2
-*.mpeg
-*.mpe
-*.mpv
-*.ogg
-*.mp4
-*.m4p
+# *.webm
+# *.mpg
+# *.mp2
+# *.mpeg
+# *.mpe
+# *.mpv
+# *.ogg
+# *.mp4
+# *.m4p
 
 # Optional eslint cache
 .eslintcache
