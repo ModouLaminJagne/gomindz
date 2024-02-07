@@ -51,6 +51,11 @@ web_modules/
 # Optional npm cache directory
 .npm
 
+# images
+*.png
+*.jpg
+*jpeg
+
 # Optional eslint cache
 .eslintcache
 
@@ -128,3 +133,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+*.json
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
