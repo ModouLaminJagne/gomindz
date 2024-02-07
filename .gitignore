@@ -60,7 +60,7 @@ web_modules/
 
 # images
 *.png
-*.jpg
+# *.jpg
 *jpeg
 *.gif
 *.ico
